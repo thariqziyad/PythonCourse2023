@@ -2,5 +2,5 @@
 
 | Filename | Notebook | 
 | ----------- | ----------- |
-| diamonds-1.csv | <ul><li>Tugas_08</li><li>;</li><li>;</li></ul> |
-| Paragraph | Text |
+| diamonds-1.csv | Tugas_08 |
+| covid_indonesia_2.csv | Tugas_20 |
